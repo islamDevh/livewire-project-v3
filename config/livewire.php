@@ -38,7 +38,7 @@ return [
     |
     */
 
-    'layout' => 'components.layouts.app',
+    'layout' => 'layouts.default', //resource/views/layouts/app.blade.php
 
     /*
     |---------------------------------------------------------------------------
