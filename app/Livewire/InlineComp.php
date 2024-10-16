@@ -6,6 +6,7 @@ use Livewire\Component;
 
 class InlineComp extends Component
 {
+    //to render html without blade
     public function render()
     {
         return <<<'HTML'
