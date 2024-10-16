@@ -21,6 +21,7 @@
     <body class="antialiased">
         @livewire('show-post')
         @livewire('inline-comp')
+        @livewire('test-properties')
         <!--or-->
         {{-- <livewire:show-post /> --}}
 
